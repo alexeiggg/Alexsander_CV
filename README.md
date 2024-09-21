@@ -1,2 +1,2 @@
 # Alexsander_CV
-my cv
+my cv https://alexeiggg.github.io/Alexsander_CV/
